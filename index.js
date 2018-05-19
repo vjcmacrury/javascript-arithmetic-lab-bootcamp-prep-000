@@ -26,4 +26,6 @@ function dec(n) {
 
 function makeInt(a, b) {
   return(a)
-} 
+} else {
+  
+}
