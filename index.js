@@ -27,7 +27,3 @@ function dec(n) {
 function makeInt(a, b) {
   return(a)
 } 
-
-if (0 * 2328 === 0) {
-  return(0)
-}
