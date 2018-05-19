@@ -28,6 +28,6 @@ function makeInt(a, b) {
   return(a)
 } 
 
-function makeInt(0 * 2328) {
+function makeInt(a * b) {
   return(a)
 }
