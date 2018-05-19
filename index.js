@@ -28,6 +28,9 @@ function makeInt(a, b) {
   return(a)
 } 
 
+var n = 2.222
+
 function preserveDecimal(n) {
   return(n)
 }
+
