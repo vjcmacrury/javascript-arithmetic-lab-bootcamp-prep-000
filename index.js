@@ -15,6 +15,8 @@ function divide (a,b) {
 }
 
 var n = 2.222
+var a = 0
+var b = 2328
 
 function inc(n) {
   return(n + 1)
