@@ -14,7 +14,7 @@ function divide (a,b) {
   return (a / b)
 }
 
-var n = 18
+var n = 2.222
 
 function inc(n) {
   return(n + 1)
@@ -27,8 +27,6 @@ function dec(n) {
 function makeInt(a, b) {
   return(a)
 } 
-
-var n = 2.222
 
 function preserveDecimal(n) {
   return(n)
