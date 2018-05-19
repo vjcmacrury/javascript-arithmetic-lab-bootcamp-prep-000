@@ -28,5 +28,7 @@ function makeInt(a, b) {
   return(a)
 } 
 
-if (0 * 2328 === 0)
+if (0 * 2328 === 0) {
+  return(0)
+}
 }
